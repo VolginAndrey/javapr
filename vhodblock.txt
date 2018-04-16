@@ -1,0 +1,57 @@
+string Text_Vhod, Text_Vihod, Block_Vhod, Block_Rabota1, Block_Rabota2 ;
+            char ch;
+            int i, j, s, posit,a;
+            if ((textBox1.Text != "") && (textBox2.Text != ""))
+            {
+                Text_Vhod = textBox1.Text;
+                Block_Vhod = textBox2.Text;
+                Text_Vihod = "";
+                Block_Rabota2 = "";
+                a = Text_Vhod.Length % Block_Vhod.Length;
+                if (Block_Vhod.Length % 2 == 0)
+                {
+                    if (a != 0)
+                    {
+                        for (i = 0; i < a; i++)
+                        {
+                            Text_Vhod = Text_Vhod + " ";
+                        }
+
+                    }
+                }
+                else
+                    if (a != 0)
+                {
+                    for (i = 0; i <= a; i++)
+                    {
+                        Text_Vhod = Text_Vhod + " ";
+                    }
+
+                }
+                for (i = 1; i < Block_Vhod.Length + 1; i++)
+                {
+                    Block_Rabota2 = Block_Rabota2 + i;
+                }
+                for (i = 0; i < Text_Vhod.Length; i = i + Block_Vhod.Length)
+                {
+                    Block_Rabota1 = "";
+                   
+                        for (posit = 0; posit < Block_Vhod.Length; posit++)
+                        {
+                            Block_Rabota1 += Text_Vhod[i + posit];
+                        }
+                   
+
+                    for (j = 0; j < Block_Vhod.Length; j++)
+                    {
+                        ch = Block_Vhod[j];
+                        for (s = 0; s < Block_Rabota2.Length; s++)
+                        {
+                            if (ch == Block_Rabota2[s])
+                            {
+                                Text_Vihod = Text_Vihod + Block_Rabota1[s];
+                            }
+                        }
+
+                    }
+                }
