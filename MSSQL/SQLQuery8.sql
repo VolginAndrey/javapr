@@ -1,0 +1,3 @@
+UPDATE Sklad
+set Sklad.PRICE=PRICE+5
+WHERE 

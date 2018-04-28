@@ -1,0 +1,1 @@
+ALTER TABLE tvari ADD FOREIGN KEY(proizvoditel) REFERENCES prizvoditel (name_proizv)
