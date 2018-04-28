@@ -1,0 +1,1 @@
+--Связать PrimaryTable и SecondaryTable, если не связаны
