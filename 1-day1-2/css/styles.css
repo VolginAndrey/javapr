@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:400i');
+
+body {
+}
+input[type="text"] {
+background-color: #f3f3f3;
+border: 1px solid #e7e7e7;
+height: 30px;
+color: #b2b2b2;
+padding: 0 10px;
+vertical-align: top;
+}
+button {
+color: #fff;
+background-color: #29c5e6;
+border: none;
+height: 32px;
+font-family: 'Oswald', sans-serif;
+}
+
+p {
+margin: 20px 0;
+}
+#wrapper {
+max-width: 960px;
+margin: auto;
+}
+header {
+padding: 20px 0;
+}
+/*form[name="search"]
+float: right;
+}*/
+nav {
+float: right;
+margin-top: 50px;
+}
+
+nav a {
+text-decoration: none;
+}
+
+nav ul {
+margin: 0;
+padding: 0;
+}
+
+nav li {
+list-style-position: inside;
+font: 14px 'Oswald', sans-serif;
+padding: 10px;
+}
+
+.top-menu li {
+display: inline-block;
+padding: 10px 30px;
+margin: 0;
+}
+
+.top-menu li.active {
+display: inline-block;
+padding: 10px 30px;
+margin: 0;
+}
+
+.top-menu a {
+color: #000000;
+}
+#headerimage{
+
+}
+blockquote {
+
+background:#d24452;
+background: linear-gradient(to top left,#302d48,#77314b,#d24452,#d5413f,#ee5943);
+height: 380px;
+
+box-shadow: 0 0 20px rgba(0,0,0,0.5);
+margin: 0;
+padding: 10px 20px;
+font-family: 'Oswald', sans-serif;
+font-weight: 300;
+}
+@font-face {
+    font-family: BankGothicRUSS; /* Гарнитура шрифта */
+    src: url(fonts/BankGothicRUSS.ttf); /* Путь к файлу со шрифтом */
+   }
+blockquote p.logo {
+
+font-family: font-family: 'Exo 2', sans-serif;
+font-size: 55px;
+margin: 0;
+}
+blockquote #sport{
+	margin-top: 6%;
+	width: 400px;
+	background: #000000
+	
+}
+blockquote p.port{
+	display: inline-block;
+	color: #858585;
+	font-style: italic;
+	font-size: 15px;
+	margin: 0;
+}
+blockquote p.port #view{
+	color: #d24452;
+	float: right;
+	padding-left:160px;
+
+}
+/*#headerimage #pich{
+	float: left;
+}*/
+#headimage1{
+	position: absolute;
+	float: right;
+	padding-left: 500px;
+	padding-top: 95px;
+}
+ #headimage2{
+ 	
+	padding-left: 500px;
+}
+/*#headerimage #pich #img2{
+	position: relative;
+}*/
