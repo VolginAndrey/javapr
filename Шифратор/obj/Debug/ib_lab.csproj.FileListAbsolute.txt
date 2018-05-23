@@ -1,0 +1,81 @@
+D:\code\ib_lab\bin\Debug\ib_lab.exe.config
+D:\code\ib_lab\bin\Debug\ib_lab.exe
+D:\code\ib_lab\bin\Debug\ib_lab.pdb
+D:\code\ib_lab\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+D:\code\ib_lab\obj\Debug\ib_lab.Form1.resources
+D:\code\ib_lab\obj\Debug\ib_lab.Properties.Resources.resources
+D:\code\ib_lab\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+D:\code\ib_lab\obj\Debug\ib_lab.exe
+D:\code\ib_lab\obj\Debug\ib_lab.pdb
+D:\Мои документы\Рабочий стол\ИБ\bin\Debug\ib_lab.exe.config
+D:\Мои документы\Рабочий стол\ИБ\obj\Debug\ib_lab.exe
+D:\Мои документы\Рабочий стол\ИБ\obj\Debug\ib_lab.pdb
+D:\Мои документы\Рабочий стол\ИБ\bin\Debug\ib_lab.exe
+D:\Мои документы\Рабочий стол\ИБ\bin\Debug\ib_lab.pdb
+D:\Мои документы\Рабочий стол\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+D:\Мои документы\Рабочий стол\ИБ\obj\Debug\ib_lab.Form1.resources
+D:\Мои документы\Рабочий стол\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+D:\Мои документы\Рабочий стол\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\bin\Debug\ib_lab.exe.config
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\obj\Debug\ib_lab.exe
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\obj\Debug\ib_lab.pdb
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\obj\Debug\ib_lab.Form1.resources
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\bin\Debug\ib_lab.exe
+D:\Мои документы\Рабочий стол\ИБПК\ИБ\bin\Debug\ib_lab.pdb
+D:\IBPK\ИБПК\ИБ\bin\Debug\ib_lab.exe.config
+D:\IBPK\ИБПК\ИБ\obj\Debug\ib_lab.exe
+D:\IBPK\ИБПК\ИБ\obj\Debug\ib_lab.pdb
+D:\IBPK\ИБПК\ИБ\bin\Debug\ib_lab.exe
+D:\IBPK\ИБПК\ИБ\bin\Debug\ib_lab.pdb
+D:\IBPK\ИБПК\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+D:\IBPK\ИБПК\ИБ\obj\Debug\ib_lab.Form1.resources
+D:\IBPK\ИБПК\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+D:\IBPK\ИБПК\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\Родионова\ИБ\bin\Debug\ib_lab.exe.config
+C:\Users\Руслан\Desktop\Родионова\ИБ\obj\Debug\ib_lab.exe
+C:\Users\Руслан\Desktop\Родионова\ИБ\obj\Debug\ib_lab.pdb
+C:\Users\Руслан\Desktop\Родионова\ИБ\bin\Debug\ib_lab.exe
+C:\Users\Руслан\Desktop\Родионова\ИБ\bin\Debug\ib_lab.pdb
+C:\Users\Руслан\Desktop\Родионова\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\Родионова\ИБ\obj\Debug\ib_lab.Form1.resources
+C:\Users\Руслан\Desktop\Родионова\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Родионова\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\bin\Debug\ib_lab.exe.config
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\obj\Debug\ib_lab.exe
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\obj\Debug\ib_lab.pdb
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\bin\Debug\ib_lab.exe
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\bin\Debug\ib_lab.pdb
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\obj\Debug\ib_lab.Form1.resources
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Родионова\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\bin\Debug\ib_lab.exe.config
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\obj\Debug\ib_lab.exe
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\obj\Debug\ib_lab.pdb
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\bin\Debug\ib_lab.exe
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\bin\Debug\ib_lab.pdb
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\obj\Debug\ib_lab.Form1.resources
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+C:\Users\XIRTAX\Desktop\Руслан\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\bin\Debug\ib_lab.exe.config
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\obj\Debug\ib_lab.exe
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\obj\Debug\ib_lab.pdb
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\bin\Debug\ib_lab.exe
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\bin\Debug\ib_lab.pdb
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\obj\Debug\ib_lab.Form1.resources
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+C:\Users\Руслан\Desktop\ИНФБЕЗ\Руслан\Руслан\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+G:\ИБ\bin\Debug\ib_lab.exe.config
+G:\ИБ\bin\Debug\ib_lab.exe
+G:\ИБ\bin\Debug\ib_lab.pdb
+G:\ИБ\obj\Debug\ib_lab.csprojResolveAssemblyReference.cache
+G:\ИБ\obj\Debug\ib_lab.Form1.resources
+G:\ИБ\obj\Debug\ib_lab.Properties.Resources.resources
+G:\ИБ\obj\Debug\ib_lab.csproj.GenerateResource.Cache
+G:\ИБ\obj\Debug\ib_lab.exe
+G:\ИБ\obj\Debug\ib_lab.pdb
