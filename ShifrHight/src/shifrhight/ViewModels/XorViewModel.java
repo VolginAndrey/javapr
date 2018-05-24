@@ -5,17 +5,16 @@
  */
 package shifrhight.ViewModels;
 
-import common.NotifyPropertyChangedBase;
 import shifrhight.Models.XorEncryptor;
 
 /**
  *
  * @author volgin
  */
-public class XorViewModel extends NotifyPropertyChangedBase {
+public class XorViewModel extends ViewModelBase {
 
     private String text, key, result;
-    private XorEncryptor model;
+    private final XorEncryptor model;
 
     public String getResult() {
         return result;
@@ -47,6 +46,10 @@ public class XorViewModel extends NotifyPropertyChangedBase {
     }
 
     public void Encrypt() {
-        setResult(model.encrypt(text, key));
+        String texta=getText();
+        if (texta.equals("a")){
+            onErrorOccured("error input a");
+        }
+        else{setResult(model.encrypt(text, key));}
     }
 }

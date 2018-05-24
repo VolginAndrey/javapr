@@ -22,15 +22,20 @@ public class XorView extends javax.swing.JFrame {
     public XorView(XorViewModel viewModel) {
         initComponents();
         this.viewModel = viewModel;
+        viewModel.getPropertyChanged().addCallback(errorText -> ViewModelErrorOccured(errorText));
         viewModel.getPropertyChanged().addCallback(propName -> ViewModelPropertyChanged(propName));
     }
 
     private final XorViewModel viewModel;
-
+    
+    private void ViewModelErrorOccured(String errorText) {
+        showMessageDialog("Не коректный ввод");
+        
+    }
     private void ViewModelPropertyChanged(String propertyName) {
         switch (propertyName) {
             case "result":
-                // todo
+                //resultTextField.setText(xorResult); // todo
                 break;
         }
     }
@@ -52,12 +57,22 @@ public class XorView extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jButton1.setText("jButton1");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
 
         sourceTextField.setText("jTextField1");
 
         keyTextField.setText("jTextField2");
+        keyTextField.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                keyTextFieldActionPerformed(evt);
+            }
+        });
 
-        resultTextField.setText("Итог");
+        resultTextField.setText("fin");
         resultTextField.setToolTipText("");
         resultTextField.setName(""); // NOI18N
         resultTextField.addActionListener(new java.awt.event.ActionListener() {
@@ -104,6 +119,17 @@ public class XorView extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_resultTextFieldActionPerformed
 
+    private void keyTextFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_keyTextFieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_keyTextFieldActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        viewModel.setKey(keyTextField.getText());
+        viewModel.setText(sourceTextField.getText());
+        viewModel.Encrypt();
+        resultTextField.setText(viewModel.getResult());
+    }//GEN-LAST:event_jButton1ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -137,6 +163,7 @@ public class XorView extends javax.swing.JFrame {
             XorEncryptor encryptor = new XorEncryptor();
             XorViewModel viewModel = new XorViewModel(encryptor);
             new XorView(viewModel).setVisible(true);
+            XorView xorResult = new XorView(viewModel);
         });
     }
 
@@ -146,4 +173,8 @@ public class XorView extends javax.swing.JFrame {
     private javax.swing.JTextField resultTextField;
     private javax.swing.JTextField sourceTextField;
     // End of variables declaration//GEN-END:variables
+
+    private void showMessageDialog(String this_is_a_Message_Box) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
